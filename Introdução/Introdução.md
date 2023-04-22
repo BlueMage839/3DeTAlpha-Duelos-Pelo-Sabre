@@ -2,7 +2,7 @@
 
 Tudo começou no servidor do [Brigada Ligeira Estelar, no Discord](https://discord.gg/hFtd6yGU). Haviam pessoas, haviam canais para mesas de jogo... só não haviam mesas efetivamente acontecendo pelo espaço - e a mesa abortada que Guilherme tivera me fez pensar um tanto.
 
-Ok, a vida adulta traz uma série de novas responsabilidades. São boletos para pagar, famílias para criar, filhos para educar, problemas diversos para resolver na fila do pão de cada dia... mas ainda assim deveria haver ALGUMA forma de jogar RPG através do servidor, oras! Existem vantagens em poder jogar via internet! A maior delas, não precisar que todos estejam fisicamente presentes no mesmo lugar... mas desencontros ainda acontecem.
+Ok, a vida adulta traz uma série de novas responsabilidades. São boletos para pagar, famílias para criar, filhos para educar, problemas diversos para resolver na fila do pão de cada dia... mas ainda assim deveria haver ALGUMA forma de se conseguir jogar RPG através do servidor, oras! Existem vantagens em poder jogar via internet! A maior delas, não precisar que todos estejam fisicamente presentes no mesmo lugar... mas desencontros ainda acontecem.
 
 Mas existe o PbF, ou Play-by-forum - onde ao invés de todos sentarem e abrirem um canal de voz, se comunicam por texto - o que permite uma dessincronia entre todos os envolvidos: eu não preciso estar ali num horário marcado (embora ajude), basta postar regularmente. Isso resolveria parte do problema, mas ainda ficava a possível falta de tempo...
 
