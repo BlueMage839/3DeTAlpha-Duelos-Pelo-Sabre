@@ -13,3 +13,11 @@ Por enquanto, estamos usando a seguinte regra: o piloto pode usar suas próprias
 Exemplo: _Gonçalves tem Ataque Especial 1(PdF - Mira Precisa), e está pilotando um Duelista com Ataque Especial 1(F; penetrante, perigoso, poderoso - Fulgor de Talento) contra piratas espaciais. Ele tem R2 e 10 PHs, seu Duelista tem R2 e 10 PHs. Ele pode usar seu turno para atacar com seu mecha, usando Mira Precisa e gastando 1 PH de si, ou Fulgor de Talento do Duelista, gastando 4 PHs de seu mecha._
 
 _Após um algum tempo de luta, Gonçalves ainda tem 10 PHs, e seu Duelista agora tem 2 PHs. Gonçalves ainda pode atacar com o mecha usando Mira Precisa, gastando seus próprios PHs, mas NÃO pode mais usar Fulgor de Talento do Duelista - o mecha não tem PHs suficientes para isso._
+
+## Nerfando a Esquiva
+
+Modificação vinda do [Manual do Defensor](https://jamboeditora.com.br/produto/manual-do-defensor-2/), página 44 - em caso de falha na Esquiva, a FD de quem tentou esquivar não incluirá a Habilidade, ou seja, o defensor rola para aquele ataque A+1d somente.
+
+## Bloqueio?
+
+Em consideração.
