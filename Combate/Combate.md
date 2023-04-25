@@ -4,7 +4,7 @@ Valem para combate as regras dos livros listados em [Criando Seu Duelista](https
 
 ## Usando Vantagens de pilotos e mechas
 
-De forma geral, se o seu personagem tem uma Vantagem, e a Especialização Pilotagem, ele pode usá-la enquanto pilota seu mecha. Se ele tem Aceleração, o mecha pode receber seus efeitos, se sabe usar Manobras de Combate através de Técnicas de Luta, também pode usá-las pilotando o mecha contra outro mecha, e por aí vai.
+De forma geral, se o seu personagem tem uma Vantagem, e a Especialização Pilotagem, ele pode usá-la enquanto pilota seu mecha. Se ele tem Aceleração, o mecha pode receber seus efeitos, se sabe usar Manobras de Combate através de Técnicas de Luta, também pode usá-las pilotando o mecha, e por aí vai.
 
 Isso dito, sobra uma pergunta importante: ok, mas quem gasta os PHs? O piloto ou o mecha?
 
