@@ -16,7 +16,7 @@ _Após um algum tempo de luta, Gonçalves ainda tem 10 PHs, e seu Duelista agora
 
 ## Nerfando a Esquiva
 
-Modificação vinda do [Manual do Defensor](https://jamboeditora.com.br/produto/manual-do-defensor-2/), página 44 - em caso de falha na Esquiva, a FD de quem tentou esquivar não incluirá a Habilidade, ou seja, o defensor rola para aquele ataque A+1d somente.
+Modificação vinda do [Manual do Defensor](https://jamboeditora.com.br/produto/manual-do-defensor-2/), página 44 - em caso de falha na Esquiva, a FD de quem tentou esquivar não incluirá a Habilidade, ou seja, o defensor tem FD = A+1d somente.
 
 ## Bloqueio?
 
