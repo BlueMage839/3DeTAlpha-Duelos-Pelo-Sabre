@@ -37,6 +37,7 @@ Isso levou Mathias a procurar formas não-usuais de conseguir fundos para a reco
 Um hussardo genérico redesenhado, adaptado e melhorado para ser capaz de desempenhar serviços diversos: análise de danos, conserto de super-estruturas, terraplanagem, construção, etc. Sua configuração atual foi feita pensada para lutas contra outros mechas - geralmente ele tende a ter equipamentos necessários para os trabalhos em que será usado.
 
 **Pontuação:** 15 pts
+
 **F1 (esmagamento - martelo), H0, R4, A1, PdF3 (calor/fogo - pistola térmica); 20 PVs, 20 PHs; +0 para Iniciativa e Esquivas**
 
 **Vantagens:** Mecha _(0 pts)_, Aceleração _(jatos nas pernas e costas, 1 pt)_, Adaptador _(1 pt)_, Ataque Especial _(Grumman Laser, PdF, 1 pt)_, Paralisia _(Pulso Eletromagnético Concentrado, 1 pt)_, Sentidos Especiais _(todos, 2 pts)_, Voo _(2 pts)_.
