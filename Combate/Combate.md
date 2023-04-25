@@ -14,6 +14,10 @@ Exemplo: _Gonçalves tem Ataque Especial 1(PdF - Mira Precisa), e está pilotand
 
 _Após um algum tempo de luta, Gonçalves ainda tem 10 PHs, e seu Duelista agora tem 2 PHs. Gonçalves ainda pode atacar com o mecha usando Mira Precisa, gastando seus próprios PHs, mas NÃO pode mais usar Fulgor de Talento do Duelista - o mecha não tem PHs suficientes para isso._
 
+No caso de Ataque Especial 0, qualquer personagem pode dar um jeito e causar dano maior - e isso inclui mechas. Ou seja, considere que tanto personagens quanto mechas tem acesso à Ataque Especial 0, e podem usá-lo com os próprios PHs.
+
+Exemplo: _Na situação acima, se Gonçalves está em combate mecha contra um pirata, ele pode usar Ataque Especial 0 (F) tanto gastando 1 PH de si, ou de seu Duelista.
+
 ## Nerfando a Esquiva
 
 Modificação vinda do [Manual do Defensor](https://jamboeditora.com.br/produto/manual-do-defensor-2/), página 44 - em caso de falha na Esquiva, a FD de quem tentou esquivar não incluirá a Habilidade, ou seja, o defensor tem FD = A+1d somente.
