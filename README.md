@@ -12,4 +12,4 @@ Um material de fã em construção para duelos de mecha 1x1 no cenário de [RPG]
 * Pós-Combate
 * O Juiz (ou "Mestrando em Situação de PvP")
 * O Grande Torneio
-* Aqueles Que Duelam, Suas Máquinas E Seus Porquês
+* [Aqueles Que Duelam, Suas Máquinas E Seus Porquês](https://github.com/BlueMage839/3DeTAlpha-Duelos-Pelo-Sabre/tree/main/Aqueles%20Que%20Duelam%2C%20Suas%20M%C3%A1quinas%20E%20Seus%20Porqu%C3%AAs)
