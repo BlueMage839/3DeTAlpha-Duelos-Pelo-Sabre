@@ -18,17 +18,17 @@ Isso levou Mathias a procurar formas não-usuais de conseguir fundos para a reco
 
 **F0 (esmagamento), H2, R1, A0, PdF0 (esmagamento); 5 PVs, 15 PHs**
 
-**Vantagem Regional:** Herói Nato(0 pts)
+**Vantagem Regional:** Herói Nato _(0 pts)_
 
 **Kit:** Mecânico
 
-**Poderes de Kit:** Ás na Manga (0 pts)
+**Poderes de Kit:** Ás na Manga _(0 pts)_
 
-**Vantagens:** Aliado Gigante (Encerrabodes, 2 pts), PMs Extras x1 (1 pt)
+**Vantagens:** Aliado Gigante _(Encerrabodes, 2 pts)_, PMs Extras x1 _(1 pt)_
 
-**Perícia:** Máquinas (2 pts)
+**Perícia:** Máquinas _(2 pts)_
 
-**Desvantagens:** Ponto Fraco (NÃO É um duelista, tendo pouca experiência em pilotagem de mechas em situações de combate, -1 pt)
+**Desvantagens:** Ponto Fraco _(NÃO É um duelista, tendo pouca experiência em pilotagem de mechas em situações de combate, -1 pt)_
 
 # Encerrabodes, Mecha de Trabalho (Adaptado Para Combate)
 
@@ -39,9 +39,9 @@ Um hussardo genérico redesenhado, adaptado e melhorado para ser capaz de desemp
 **Pontuação:** 15 pts
 **F1 (esmagamento - martelo), H0, R4, A1, PdF3 (calor/fogo - pistola térmica); 20 PVs, 20 PHs; +0 para Iniciativa e Esquivas**
 
-**Vantagens:** Mecha (0 pts), Aceleração (jatos nas pernas e costas, 1 pt), Adaptador (1 pt), Ataque Especial (Grumman Laser, PdF, 1 pt), Paralisia (Pulso Eletromagnético Concentrado, 1 pt), Sentidos Especiais (todos, 2 pts), Voo (2 pts).
+**Vantagens:** Mecha _(0 pts)_, Aceleração _(jatos nas pernas e costas, 1 pt)_, Adaptador _(1 pt)_, Ataque Especial _(Grumman Laser, PdF, 1 pt)_, Paralisia _(Pulso Eletromagnético Concentrado, 1 pt)_, Sentidos Especiais _(todos, 2 pts)_, Voo _(2 pts)_.
 
-**Desvantagens:** Bateria (-1 pt), Apenas a Frio (-1 pt).
+**Desvantagens:** Bateria _(-1 pt)_, Apenas a Frio _(-1 pt)_.
 
 _Grumman Laser:_ a pistola térmica que o Encerrabodes carrega emite raios lasers em temperaturas suficientes para danificar os delicados sistemas que mantém mechas de pé, mas quando ele REALMENTE precisa causar dano, a temperatura do laser pode ser elevada para fritar tais sistemas, numa tremulante linha vermelha de devastação no que quer que atinja. _(Ataque Especial; PdF)._
 
