@@ -16,7 +16,7 @@ _Após um algum tempo de luta, Gonçalves ainda tem 10 PHs, e seu Duelista agora
 
 No caso de Ataque Especial 0, qualquer personagem pode dar um jeito e causar dano maior - e isso inclui mechas. Ou seja, considere que tanto personagens quanto mechas tem acesso à Ataque Especial 0, e podem usá-lo com os próprios PHs.
 
-Exemplo: _Na situação acima, se Gonçalves está em combate mecha contra um pirata, ele pode usar Ataque Especial 0 (F) tanto gastando 1 PH de si, ou de seu Duelista.
+Exemplo: _Na situação acima, se Gonçalves está em combate mecha contra um pirata, ele pode usar Ataque Especial 0 (F) tanto gastando 1 PH de si, ou de seu Duelista._
 
 ## Nerfando a Esquiva
 
