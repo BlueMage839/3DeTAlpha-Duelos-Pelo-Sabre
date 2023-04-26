@@ -8,7 +8,7 @@
 
 A Insurreição de 9 anos atrás e os anos subsequentes foram um momento marcante de sua vida, e embora diga muito pouco sobre o que viveu, costuma comentar que sobre eles que "quem já passou necessidade tem sangue no raciocínio", ditado da cidade em que vivia.
 
-Já um Hussardo da Brigada Ligeira Estelar, Luiz foi colocado em Annelise, e rapidamente se afeiçoou ao povo pobre do local, principalmente dos Cantos Baixos e reconheceu no sofrimento deles o seu próprio. 
+Já um Hussardo da Brigada Ligeira Estelar, Luiz foi colocado em Annelise. Rapidamente se afeiçoou ao povo pobre do planeta, principalmente dos Cantos Baixos e reconheceu no sofrimento deles o seu próprio. 
 
 Pouco depois já estava agindo como agitador, defensor, representante, quase um herói local dando voz a suas demandas, arrumando encrenca a torto e a direito com qualquer um que insistisse em esconder e encobrir a miséria que lá existia - o que inclui parte da nobreza e do jornalismo. 
 
@@ -16,7 +16,7 @@ Tais inciativas não passaram despercebidas pela hierarquia da Brigada, e assim 
 
 Sua primeira ação nesse sentido - uma vitória disputada contra [Mathias Castelo e seu Encerrabodes](https://github.com/BlueMage839/3DeTAlpha-Duelos-Pelo-Sabre/blob/main/Aqueles%20Que%20Duelam%2C%20Suas%20M%C3%A1quinas%20E%20Seus%20Porqu%C3%AAs/Mathias%20e%20Encerrabodes.md) - fizeram o desejado, ao ponto de gerar uma série de prisões e processos contra a elite Anneliseana, e Luiz e sua luta conquistaram um lugar cativo no imaginário do planeta.
 
-A missão de Luiz não acabou, e sua afiliação com a Brigada impede sabotagens que o impediriam de duelar legalmente (elas PODERIAM acontecer, mas nenhum dos interessados acha que as consequências valham à pena). Os tempos em Annelise fizeram dele um exímio duelista e Luiz continuará fazendo dessa sua chance para brandir sua espada em nome daqueles que defende. 
+A missão de Luiz não acabou, e sua afiliação com a Brigada impede sabotagens que o impediriam de duelar legalmente (elas PODERIAM acontecer, mas nenhum dos interessados acha que as consequências valem à pena). Os tempos em Annelise fizeram dele um exímio duelista e Luiz continuará fazendo dessa sua chance para brandir sua espada em nome daqueles que defende. 
 
 Sua ousadia de Hussardo é sua arma e o povo é seu escudo. Nada mais importa. 
 
