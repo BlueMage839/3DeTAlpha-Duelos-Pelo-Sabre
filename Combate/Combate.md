@@ -25,3 +25,5 @@ Modificação vinda do [Manual do Defensor](https://jamboeditora.com.br/produto/
 ## Bloqueio?
 
 Em consideração.
+
+## Perícias em Combate
