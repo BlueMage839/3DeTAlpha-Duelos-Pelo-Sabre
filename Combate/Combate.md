@@ -28,7 +28,7 @@ Em consideração.
 
 ## Perícias em Combate
 
-Já avisando: as regras abaixo precisam MUITO ser testadas, não garantimos seu equilíbrio ou funcionamento no momento.
+Já avisando: **as regras abaixo precisam MUITO ser testadas, não garantimos seu equilíbrio ou funcionamento no momento.**
 
 De forma geral, adaptando as regras apresentadas no [Manual do Defensor](https://jamboeditora.com.br/produto/manual-do-defensor-2/), página 32...
 
