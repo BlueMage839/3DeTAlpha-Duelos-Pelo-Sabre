@@ -10,9 +10,9 @@
 
 Por conta disso, se formou como engenheiro em Albuquerque, e trabalhava tranquilamente na oficina da família, que atendia mechas "e o que mais precisar de conserto", oferecendo seus serviços para Leocádia e adjacências. Tudo ia bem.
 
-Até que um racha de mechas entre nobres não-identificados destruiu a oficina. Esperava-se que o seguro cobrisse os danos e permitisse sua reconstrução... mas os donos da empresa de seguro são nobres envolvidos num extremamente enrolado e espinhoso processo judicial de destitulação por "criatividade contábil", corrupção e dívidas não pagas. O pagamento do seguro ficou preso nesse processo judicial, que não tem data nenhuma para terminar além de "só as estrelas sabem".
+Até que um racha de mechas entre nobres não-identificados destruiu a oficina. Esperava-se que o seguro cobrisse os danos e permitisse sua reconstrução... mas os donos da empresa de seguro são nobres envolvidos num extremamente enrolado e espinhoso processo judicial de destitulação por "criatividade contábil", corrupção e dívidas não pagas. O pagamento do seguro ficou preso nesse processo, que não tem data nenhuma para terminar além de "só as estrelas sabem".
 
-Isso levou Mathias a procurar formas não-usuais de conseguir fundos para a reconstrução de seu negócio, e um certo dia descobriu que dessa vez, o Grande Torneio está oferecendo pagamento a quem quiser participar de lutas de não-classificação (essencialmente lutas extras para manter o público entretido)...
+Isso levou Mathias a procurar formas não-usuais de conseguir fundos para a reconstrução de seu negócio. Certo dia, descobriu que dessa vez o Grande Torneio está oferecendo pagamento a quem quiser participar de lutas de não-classificação (essencialmente lutas extras para manter o público entretido)...
 
 -----------
 
