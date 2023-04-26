@@ -20,6 +20,8 @@ A missão de Luiz não acabou, e sua afiliação com a Brigada impede sabotagens
 
 Sua ousadia de Hussardo é sua arma e o povo é seu escudo. Nada mais importa. 
 
+-----------
+
 **Pontuação:** 7 pts
 
 **F0 (corte), H2, R1, A0, PdF0 (esmagamento); 5 PVs, 5 PHs**
@@ -41,6 +43,8 @@ Sua ousadia de Hussardo é sua arma e o povo é seu escudo. Nada mais importa.
 Um Hussardo da Brigada Ligeira Estelar adaptado para duelos. Ele conta com pequenas modificações e funcionamento apenas à frio para evitar causalidades indesejadas.
 
 Apesar disso, seu principal ativo são os símbolos que ostenta e o piloto que o guia.
+
+-------
 
 **Pontuação:** 15 pts
 
