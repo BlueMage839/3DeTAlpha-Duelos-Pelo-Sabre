@@ -3,7 +3,7 @@ Um material de fã em construção para duelos de mecha 1x1 no cenário de [RPG]
 
 * [Direitos](https://github.com/BlueMage839/3DeTAlpha-Duelos-Pelo-Sabre/blob/main/Direitos/Direitos.md)
 * Notas de Atualização
-* Responsáveis e Agradecimentos
+* [Responsáveis e Agradecimentos](https://github.com/BlueMage839/3DeTAlpha-Duelos-Pelo-Sabre/blob/main/Respons%C3%A1veis%20e%20Agradecimentos/Respons%C3%A1veis%20e%20Agradecimentos.md)
 * [Introdução (ou "Como Chegamos Aqui Afinal?")](https://github.com/BlueMage839/3DeTAlpha-Duelos-Pelo-Sabre/blob/main/Introdu%C3%A7%C3%A3o/Introdu%C3%A7%C3%A3o.md)
 * [Criando Seu Duelista](https://github.com/BlueMage839/3DeTAlpha-Duelos-Pelo-Sabre/blob/main/Criando%20Seu%20Duelista/Criando%20Seu%20Duelista.md)
 * Vantagens, Perícias & Desvantagens
