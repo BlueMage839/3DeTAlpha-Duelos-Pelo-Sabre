@@ -1,7 +1,7 @@
 # Duelos Pelo Sabre (nome temporário)
 Um material de fã em construção para duelos de mecha 1x1 no cenário de [RPG](https://blog.jamboeditora.com.br/o-que-e-rpg/) para [3D&T Alpha](https://jamboeditora.com.br/produto/manual-3det-alpha-edicao-revisada-digital/), [Brigada Ligeira Estelar](https://jamboeditora.com.br/produto/brigada-ligeira-estelar/).
 
-* Direitos
+* [Direitos](https://github.com/BlueMage839/3DeTAlpha-Duelos-Pelo-Sabre/blob/main/Direitos/Direitos.md)
 * Notas de Atualização
 * Responsáveis e Agradecimentos
 * [Introdução (ou "Como Chegamos Aqui Afinal?")](https://github.com/BlueMage839/3DeTAlpha-Duelos-Pelo-Sabre/blob/main/Introdu%C3%A7%C3%A3o/Introdu%C3%A7%C3%A3o.md)
