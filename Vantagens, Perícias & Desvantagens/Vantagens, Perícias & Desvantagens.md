@@ -1,6 +1,8 @@
 # Vantagens, Perícias & Desvantagens
 
-## Desvantagens
+Nessa seção entram quaisquer novas Vantagens, Perícias e Desvantagens, assim como comentários sobre algumas em específico.
+
+## Desvantagens Comentadas
 
 ### Apenas a Frio
 
