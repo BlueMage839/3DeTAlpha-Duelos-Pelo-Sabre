@@ -2,6 +2,26 @@
 
 Valem para combate as regras dos livros listados em [Criando Seu Duelista](https://github.com/BlueMage839/3DeTAlpha-Duelos-Pelo-Sabre/blob/main/Criando%20Seu%20Duelista/Criando%20Seu%20Duelista.md)... e umas extras.
 
+## Quanto tempo o duelo dura?
+
+Pode acontecer que no final das contas, ambos os jogadores sejam tão bons defensivamente que o combate acaba se arrastando para além do limite do aceitável. A fim de evitar isso, pode ser uma boa ideia colocar um limite máximo de rodadas para ele.
+
+O que vamos testar por ora é que duelos duram no máximo 12 rodadas - no fim da última rodada, caso ambos os duelistas e seus mechas ainda estejam de pé, ganha aquele cujo mecha tiver mais PVs, comparando com seus PVs máximos.
+
+Exemplo: Depois de 12 rodadas de uma acirrada luta em meio a asteróides perto do Asteróide Schullman, dois duelistas ainda estão de pé, com seus mechas, Montblanc e Fuji. Montblanc tem 20 de 40 PVs, e Fuji tem 12 de 20 PVs. Ou seja, embora Montblanc tenha mais PVs, ele sofreu proporcionalmente mais dano (Montblanc perdeu metade dos PVs, enquanto Fuji perdeu quatro décimos deles). Logo, a vitória é de Fuji e seu piloto.
+
+## Arenas!
+
+Outra regra que estamos testando - para deixar lutas mais interessantes - é decidir aleatoriamente onde ela vai acontecer. A primeira luta de teste aconteceu numa arena feita para isso, em Annelise - mas outros locais podem trazer situações distintas para os jogadores lidarem.
+
+Por exemplo:
+
+* Uma luta acima dos oceanos de Inara pode acabar atraindo atenção indesejada da fauna local;
+* Um cinturão de asteróides proporciona muitas possibilidades em termos de esconderijos, tocaias e obstáculos;
+* Uma fábrica de mechas tem muito material e equipamento utilizável para ambos os lados...
+
+...e etc, etc. O que tentamos foi listar locais interessantes e então rolar um dado para decidir qual deles seria o local da luta em si.
+
 ## Usando Vantagens de pilotos e mechas
 
 De forma geral, se o seu personagem tem uma Vantagem, e a Especialização Pilotagem, ele pode usá-la enquanto pilota seu mecha. Se ele tem Aceleração, o mecha pode receber seus efeitos, se sabe usar Manobras de Combate através de Técnicas de Luta, também pode usá-las pilotando o mecha, e por aí vai.
