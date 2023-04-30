@@ -38,6 +38,14 @@ No caso de Ataque Especial 0, qualquer personagem pode dar um jeito e causar dan
 
 Exemplo: _Na situação acima, se Gonçalves está em combate mecha contra um pirata, ele pode usar Ataque Especial 0 (F) tanto gastando 1 PH de si, ou de seu Duelista._
 
+## Usando Poderes de Kit de pilotos
+
+Sim, também é possível usar Poderes de Kit enquanto pilotando um mecha, se o personagem tiver o Poder e a Especialização Pilotagem.
+
+Isso dito, o mesmo sobre Vantagens se aplica a Poderes de Kit: se o Poder exige gasto de PHs, os PHs gastos são os do PILOTO, não do Mecha. E uma vez que o piloto não tenha PHs suficientes, não pode mais usar os Poderes de Kit.
+
+Exemplo: _a adicionar_.
+
 ## Nerfando a Esquiva
 
 Modificação vinda do [Manual do Defensor](https://jamboeditora.com.br/produto/manual-do-defensor-2/), página 44 - em caso de falha na Esquiva, a FD de quem tentou esquivar não incluirá a Habilidade, ou seja, o defensor tem FD = A+1d somente.
