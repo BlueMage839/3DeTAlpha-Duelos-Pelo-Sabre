@@ -44,7 +44,15 @@ Sim, também é possível usar Poderes de Kit enquanto pilotando um mecha, se o 
 
 Isso dito, o mesmo sobre Vantagens se aplica a Poderes de Kit: se o Poder exige gasto de PHs, os PHs gastos são os do PILOTO, não do Mecha. E uma vez que o piloto não tenha PHs suficientes, não pode mais usar os Poderes de Kit.
 
-Exemplo: _a adicionar_.
+Exemplo: _Vercilo é um Aventureiro com o Poder de Kit Empáfia: enquanto pilota seu Irregular, um nobre pilotando um Duelista (e aterrorizando civis...) tenta intimidá-lo para que ignore o que está fazendo. A Empáfia de Vercilo é ativada, o imunizando a tentativa de intimidação e dando a seu Irregular F+1_.
+
+Exemplo: _Aya é uma Oficial Hussarda de Gessler, enfrentando inesperados robôs Proscritos na fronteira de seu domínio de origem. Conhecendo a reputação de seus oponentes, resolve terminar a luta o mais rápido possível. Com R2 e 10 PHs, ela usa seu Poder de Kit Aumento de Dano, gastando 2 PHs por turno para aumentar seu Poder de Fogo de 3 para 7._
+
+_Após 5 turnos de luta, ela conseguiu vencer três Proscritos, mas gastou todos os PHs que tinha, e por isso seu Aumento de Dano para de funcionar. Ela não pode usar os PHs de seu Hussardo para continuar usando Aumento de Dano._
+
+## Ok, mas e Vantagens Regionais?
+
+Bom... em análise :p
 
 ## Nerfando a Esquiva
 
