@@ -8,7 +8,7 @@ Pode acontecer que no final das contas, ambos os jogadores sejam tão bons defen
 
 O que vamos testar por ora é que duelos duram no máximo 12 rodadas - no fim da última rodada, caso ambos os duelistas e seus mechas ainda estejam de pé, ganha aquele cujo mecha tiver mais PVs, comparando com seus PVs máximos.
 
-Exemplo: Depois de 12 rodadas de uma acirrada luta em meio a asteróides perto do Asteróide Schullman, dois duelistas ainda estão de pé, com seus mechas, Montblanc e Fuji. Montblanc tem 20 de 40 PVs, e Fuji tem 12 de 20 PVs. Ou seja, embora Montblanc tenha mais PVs, ele sofreu proporcionalmente mais dano (Montblanc perdeu metade dos PVs, enquanto Fuji perdeu quatro décimos deles). Logo, a vitória é de Fuji e seu piloto.
+Exemplo: _Depois de 12 rodadas de uma acirrada luta em meio a asteróides perto do Asteróide Schullman, dois duelistas ainda estão de pé, com seus mechas, Montblanc e Fuji. Montblanc tem 20 de 40 PVs, e Fuji tem 12 de 20 PVs. Ou seja, embora Montblanc tenha mais PVs, ele sofreu proporcionalmente mais dano (Montblanc perdeu metade dos PVs, enquanto Fuji perdeu quatro décimos deles). Logo, a vitória é de Fuji e seu piloto._
 
 ## Arenas!
 
