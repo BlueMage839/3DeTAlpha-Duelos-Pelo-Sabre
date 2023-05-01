@@ -11,6 +11,10 @@ O Arquivos do Sabre não entrou na lista... porquê esse que escreve até tem ag
 
 Quanto ao [blog de Brigada](https://brigadaligeiraestelar.com/), ele tem periodicamente material novo, então fica a cargo do Mestre aprovar o que for publicado lá caso algum jogador queira usar. Sim, futuramente é possível que façamos uma lista do que é aceito ou não, ou não, vá saber.
 
+E sobre material de fã, não oficial...
+
+* Dossiê Aurocorp: os mechas apresentados podem ser usados como base para receberem mais pontos até terem os 15 mencionados abaixo. Além disso, os Kits presentes no suplemento também são válidos... mas NÃO os Equipamentos... porquê ainda não sei como Equipamentos entram nesse suplemento ainda, sério, não tinha pensado neles antes :p
+
 Personagens jogadores são feitos com 7 pontos, e um máximo de 3 pontos em qualquer Característica (sim, você pode ter H2 e R2. Não, você não pode colocar 4 pontos em Habilidade), e são de escala Ningen. Vale lembrar que:
 
 * as regras para posse de mecha de Brigada Ligeira Estelar ainda valem: você precisa ter algo em sua ficha que justifique ter um robô gigante, seja Aliado Gigante, ou Patrono, etc.
