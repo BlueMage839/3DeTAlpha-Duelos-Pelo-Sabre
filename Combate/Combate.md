@@ -52,7 +52,7 @@ _Após 5 turnos de luta, ela conseguiu vencer três Proscritos, mas gastou todos
 
 ## Ok, mas e Vantagens Regionais?
 
-
+Idem, embora algumas precisem de esclarecimentos lá no [Vantagens, Perícias e Desvantagens](https://github.com/BlueMage839/3DeTAlpha-Duelos-Pelo-Sabre/blob/main/Vantagens%2C%20Per%C3%ADcias%20%26%20Desvantagens/Vantagens%2C%20Per%C3%ADcias%20%26%20Desvantagens.md).
 
 ## Nerfando a Esquiva
 
