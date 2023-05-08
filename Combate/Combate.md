@@ -48,11 +48,11 @@ Exemplo: _Vercilo é um Aventureiro com o Poder de Kit Empáfia: enquanto pilota
 
 Exemplo: _Aya é uma Oficial Hussarda de Gessler, enfrentando inesperados robôs Proscritos na fronteira de seu domínio de origem. Conhecendo a reputação de seus oponentes, resolve terminar a luta o mais rápido possível. Com R2 e 10 PHs, ela usa seu Poder de Kit Aumento de Dano, gastando 2 PHs por turno para aumentar seu Poder de Fogo de 3 para 7._
 
-_Após 5 turnos de luta, ela conseguiu vencer três Proscritos, mas gastou todos os PHs que tinha, e por isso seu Aumento de Dano para de funcionar. Ela não pode usar os PHs de seu Hussardo para continuar usando Aumento de Dano._
+_Após 5 turnos de luta, ela conseguiu vencer três Proscritos, mas gastou todos os PHs que tinha, e por isso seu Aumento de Dano para de funcionar. E como ela não pode usar os PHs de seu Hussardo para usar Aumento de Dano, está em maus lençóis..._
 
 ## Ok, mas e Vantagens Regionais?
 
-Bom... em análise :p
+
 
 ## Nerfando a Esquiva
 
