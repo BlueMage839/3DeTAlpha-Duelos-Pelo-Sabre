@@ -8,9 +8,10 @@ O AriedreX#4743 ajudou na hora de tirar dúvidas sobre um dos kits do Dossiê Au
 
 Do Discord:
 
-thebluemage#4778 - Duelista
+thebluemage#4778 - Duelista/Juiz
 
 ErinaPlatov#9836 - Duelista
 
-Tonico#5127 - Juiz
+hericly#6956 - Duelista
 
+Tonico#5127 - Futuro Duelista
