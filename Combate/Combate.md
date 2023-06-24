@@ -72,7 +72,7 @@ De forma geral, adaptando as regras apresentadas no [Manual do Defensor](https:/
 
 Já para aplicar um redutor a um oponente, você precisa passar num teste resistido contra ele. Um teste resistido funciona da seguinte forma:
 
-Característica relevante do usuário da Perícia + 4(se ele tiver a perícia) + outros bônus ou redutores vs Característica relevante de quem vai ser afetado + 4(se ele tiver uma Perícia que ajude a resistir) + outros bônus ou redutores.
+Característica relevante do usuário da Perícia + 4(se ele tiver a perícia) + outros bônus ou redutores + 1d vs Característica relevante de quem vai ser afetado + 4(se ele tiver uma Perícia que ajude a resistir) + outros bônus ou redutores + 1d.
 
 Ganha quem tirar o maior número - sim, o leitor perspicaz notou que isso é uma variação de FA vs. FD. 
 
