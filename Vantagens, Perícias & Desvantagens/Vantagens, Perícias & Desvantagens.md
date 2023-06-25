@@ -28,6 +28,10 @@ Exemplo: _Tarik Mansur está pilotando um Irregular contra um nobre arrogante de
 
 _Ainda na mesma luta, o nobre utiliza ácido contra as junta do Irregular de Mansur. O Irregular falha no teste de Armadura, sofrendo o efeito do ácido, que lhe faz perder 1 PV por turno. Por ter falhado no teste, o mecha se beneficia de Reerguer-se. Por ter R4, Tarik escolhe a recupração de 4 PVs para seu mecha._
 
+## Equipamentos
+
+Por enquanto, não permitidos na criação de mechas - o uso de Equipamentos permite compensar deficiências de um mecha (o que faria usa série de Mechas na prática iguais), ou criar verdadeiros combos de apelação e dano (estou olhando para VOCÊ, Rifle Gigante Nuclear >_>). Claro que comepnsações e combos podem ser feitas com os 15 pontos já disponíveis, mas esses mesmos 15 pontos colocam um teto no que pode ser feito... teto facilmente quebrável gastando um ponto para ter um Equipamento de 12 pontos, que vai possivelmente durar a luta toda...
+
 ## Tepeques Comentados
 
 Conforme dito no [Arquivos do Sabre](https://jamboeditora.com.br/produto/arquivos-do-sabre/), Tepeques são Itens Especiais (parte 8 do [Manual 3D&T Alpha](https://jamboeditora.com.br/produto/manual-3det-alpha-edicao-revisada-digital/)), acopláveis a um mecha. Por ora, vamos comentar sobre os Tepeques apresentados no Arquivos do Sabre.
