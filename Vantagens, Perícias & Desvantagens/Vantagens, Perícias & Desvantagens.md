@@ -1,6 +1,6 @@
-# Vantagens, Perícias & Desvantagens
+# Vantagens, Tepeques, Perícias & Desvantagens
 
-Nessa seção entram quaisquer novas Vantagens, Perícias e Desvantagens, assim como comentários sobre algumas em específico.
+Nessa seção entram quaisquer novas Vantagens, Tepeques, Perícias e Desvantagens, assim como comentários sobre algumas em específico.
 
 ## Vantagens Regionais Comentadas
 
