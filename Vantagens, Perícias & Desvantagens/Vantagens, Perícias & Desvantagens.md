@@ -16,7 +16,7 @@ O oponente rola um dado e subtrai de sua FA final, caso a Intimidação tenha si
 
 Sim, essa Vantagem concede Cura Mágica a seu dono, apenas para uso em Construtos. Sim, é possível consertar o próprio mecha enquanto se pilota o mesmo com ela.
 
-### Mortez - Mundo Hostil (1 pt)
+### Moretz - Mundo Hostil (1 pt)
 
 Essa vantagem concede +1d para FA ou FD finais do piloto quando luta num Aliado Gigante.
 
