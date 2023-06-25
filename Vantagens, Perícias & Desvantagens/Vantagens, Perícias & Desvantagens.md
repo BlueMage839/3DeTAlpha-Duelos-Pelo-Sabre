@@ -30,7 +30,7 @@ _Ainda na mesma luta, o nobre utiliza ácido contra as junta do Irregular de Man
 
 ## Equipamentos
 
-Por enquanto, não permitidos na criação de mechas - o uso de Equipamentos permite compensar deficiências de um mecha (o que faria usa série de Mechas na prática iguais), ou criar verdadeiros combos de apelação e dano (estou olhando para VOCÊ, Rifle Gigante Nuclear >_>). Claro que comepnsações e combos podem ser feitas com os 15 pontos já disponíveis, mas esses mesmos 15 pontos colocam um teto no que pode ser feito... teto facilmente quebrável gastando um ponto para ter um Equipamento de 12 pontos, que vai possivelmente durar a luta toda...
+Por enquanto, não permitidos na criação de mechas - o uso de Equipamentos permite compensar deficiências de um mecha (o que faria usa série de Mechas na prática iguais), ou criar verdadeiros combos de apelação e dano (estou olhando para VOCÊ, Rifle Gigante Nuclear >_>). Claro que compensações e combos podem ser feitas com os 15 pontos já disponíveis, mas esses mesmos 15 pontos colocam um teto no que pode ser feito... teto facilmente quebrável gastando um ponto para ter um Equipamento de 12 pontos, que vai possivelmente durar a luta toda...
 
 ## Tepeques Comentados
 
