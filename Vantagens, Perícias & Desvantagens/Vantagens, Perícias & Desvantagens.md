@@ -28,6 +28,32 @@ Exemplo: _Tarik Mansur está pilotando um Irregular contra um nobre arrogante de
 
 _Ainda na mesma luta, o nobre utiliza ácido contra as junta do Irregular de Mansur. O Irregular falha no teste de Armadura, sofrendo o efeito do ácido, que lhe faz perder 1 PV por turno. Por ter falhado no teste, o mecha se beneficia de Reerguer-se. Por ter R4, Tarik escolhe a recupração de 4 PVs para seu mecha._
 
+## Tepeques Comentados
+
+Conforme dito no [Arquivos do Sabre](https://jamboeditora.com.br/produto/arquivos-do-sabre/), Tepeques são Itens Especiais (parte 8 do [Manual 3D&T Alpha](https://jamboeditora.com.br/produto/manual-3det-alpha-edicao-revisada-digital/)), acopláveis a um mecha. Por ora, vamos comentar sobre os Tepeques apresentados no Arquivos do Sabre.
+
+A maioria deles é em essência, uma explicação dentro do cenário para a Vantagem Ataque Especial de um Mecha, junto da limitação padrão de dois slots para Tepeques e uma restrição que faz sentido - afinal, se você gasta 3 pontos de Personagem para um Ataque Especial I - F, Penetrante e Perigoso, é de se esperar que você tenha pelo menos um ponto em F para aproveitar melhor o crítico triplicado que o Ataque Especial lhe dá...
+
+E como é possível conseguir Ataque Especial via a simples compra da Vantagem em si, esses Tepeques estão liberados para compra através de pontos na criação de seu mecha.
+
+Agora, sobre certos outros tepeques apresentados...
+
+### Aceleração Extra
+
+Do jeito que foi apresentado, não é permitido para uso - estamos falando de TRÊS AÇÕES POR TURNO, ao custo de 1 PH por rodada, gastando apenas um ponto de personagem para isso - ou seja, o usuário do Tepeque pode só começar a luta, usar o Ataque Especial e nos turnos seguintes destroçar o pobre mecha do oponente...
+
+### Garra
+
+Cada uso gasta 2 PHs ao invés de 1 - o mesmo custo de uso de um Ataque Especial 1 (penetrante).
+
+### Lança Foguetes
+
+"Cada um de seus ataques automaticamente é um TIRO Múltiplo", não Ataque Múltiplo.
+
+### Sabre de Energia Especial
+
+Por enquanto, não permitido para uso até que testes sejam feitos com seu uso em mesa.
+
 ## Desvantagens Comentadas
 
 ### Apenas a Frio
