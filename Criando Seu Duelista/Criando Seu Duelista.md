@@ -7,7 +7,7 @@ Para duelar, você vai precisar de um personagem e de um mecha que ele pilota. P
 * [A Constelação do Sabre, volume 1](https://jamboeditora.com.br/produto/a-constelacao-do-sabre-vol-1-2/)
 * [A Constelação do Sabre, volume 2](https://jamboeditora.com.br/produto/a-constelacao-do-sabre-vol-2-2/)
 
-Sobre o [Arquivos do Sabre](https://jamboeditora.com.br/produto/arquivos-do-sabre/)... esse que escreve está lendo o mesmo (obrigado Guilherme!). Sobre ele, até o momento: Equipamentos não são permitidos na criação de mechas porquê, como visto mais abaixo, os mechas são feitos com 15 pontos. Isso daria 12 pontos para se fazer um Equipamento gastando 1 pt pela Vantagem... que cobriria fácil todas as deficiências do mecha sendo pilotado... e faria as lutas acabarem sendo entre oponentes muito similares, ou definitivamente apelões (se quiser usá-los, à vontade, depois nos conte como foi :p).
+Sobre o [Arquivos do Sabre](https://jamboeditora.com.br/produto/arquivos-do-sabre/)... esse que escreve está lendo o mesmo (obrigado Guilherme!), Tepeques e Equipamentos já estão comentados na seção correspondente.
 
 Quanto ao [blog de Brigada](https://brigadaligeiraestelar.com/), ele tem periodicamente material novo, então fica a cargo do Mestre aprovar o que for publicado lá caso algum jogador queira usar. Sim, futuramente é possível que façamos uma lista do que é aceito ou não, ou não, vá saber.
 
