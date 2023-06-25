@@ -26,7 +26,7 @@ Continua valendo a máxima: se quem faz o teste é o piloto, ele recebe os efeit
 
 Exemplo: _Tarik Mansur está pilotando um Irregular contra um nobre arrogante de Tarso e seu Duelista. Tarik falha num teste de Intimidação ao tentar colocar medo no nobre. Tarik tem Reerguer-se (1 pt) e R3, então escolhe recuperar 3 PHs._
 
-_Ainda na mesma luta, o nobre utiliza ácido contra as junta do Irregular de Mansur. O Irregular falha no teste de Armadura, sofrendo o efeito do ácido, que lhe faz perder 1 PV por turno. Por ter falhado no teste, o mecha se beneficia de Reerguer-se. Por ter R4, Tarik escolhe a recupração de 4 PVs para seu mecha.
+_Ainda na mesma luta, o nobre utiliza ácido contra as junta do Irregular de Mansur. O Irregular falha no teste de Armadura, sofrendo o efeito do ácido, que lhe faz perder 1 PV por turno. Por ter falhado no teste, o mecha se beneficia de Reerguer-se. Por ter R4, Tarik escolhe a recupração de 4 PVs para seu mecha._
 
 ## Desvantagens Comentadas
 
