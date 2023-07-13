@@ -2,6 +2,22 @@
 
 Valem para combate as regras dos livros listados em [Criando Seu Duelista](https://github.com/BlueMage839/3DeTAlpha-Duelos-Pelo-Sabre/blob/main/Criando%20Seu%20Duelista/Criando%20Seu%20Duelista.md)... e umas extras.
 
+## Evitando o efeito "duelo de faroeste"
+
+A cena é clássica e se escreve por si só: dois pistoleiros, um sol escaldante, um sinal esperado. Mãos perto de coldres, olhares tensos, a antecipação criando um inferno dentro dos participantes. E então o sino toca, o relógio chega ao meio-dia, um grito é dado e um tiro fulminante decide o vitorioso.
+
+...conforme mencionado numa das DBs pós-mini-versão-Stranger-Things, conforme os pontos sobem no 3D&T Alpha, a quantidade de dano causável escala mais rápido que a quantidade de Pontos de Vida disponíveis. Isso é agravado ainda mais no caso das situações desse suplemento, onde jogadores podem fazer personagens voltados para uma única luta, e portanto problemas existentes em fichas voltadas para causar o máximo de dano, que geralmente poderiam ser explorados por um Mestre numa aventura/campanha ("sim, eu sei que você tem um rifle com Ataque Especial e Dano Gigante, mas seus PHs estão esgotados, não é?") mal tem tempo de existir, ou geram confrontos... rápidos e _frustrantes_ para quem perdeu antes de poder esboçar uma reação.
+
+A fim de evitar (ou no mínimo mitigar) isso, fica a seguinte regra opcional (sem explicação narrativa por ora - sinceramente, a vida chama, e o tempo tem sido curto para prosseguir por aqui):
+
+Mechas e seus pilotos começam lutas com PHs ZERADOS. A cada começo de turno (excetuando o primeiro turno de quem ganhou a iniciativa) de um jogador, seu personagem e seu mecha ganham 1 PH, sendo que a quantidade recebida aumenta em 1 a cada turno, até que tenham ganho uma quantidade, no total, igual a seus PHs máximos do começo da luta. A partir desse ponto essa fonte de PHs "seca", e novos PHs não são ganhos através dela.
+
+Exemplo: _Altair e Petra estão num duelo amigável no terreno do domínio de um nobre que é patrono de duelos desde que ocorram em seu quintal. Altair (R1) ganha a iniciativa, e começa a luta com 0 PHs tanto para si quanto seu Irregular (R2). Petra (R2) age depois dele, e ela e seu Refugo (R1) ganham antes de qualquer ação 1 PH._
+
+_No segundo turno de Altair, ele e seu mecha recebem 1 PH, e no segundo turno de Petra, ela e seu mecha recebem 2 PHs - independentemente de terem gastado ou ganho PHs de outras maneiras._
+
+_Já no terceiro turno de Petra, ela recebe 3 PHs, seu Refugo ganha apenas 2 - no total, recebeu 5 PHs, e portanto, não pode ganhar mais deles._
+
 ## Quanto tempo o duelo dura?
 
 Pode acontecer que no final das contas, ambos os jogadores sejam tão bons defensivamente que o combate acaba se arrastando para além do limite do aceitável. A fim de evitar isso, pode ser uma boa ideia colocar um limite máximo de rodadas para ele.
