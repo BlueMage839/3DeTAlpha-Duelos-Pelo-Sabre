@@ -6,7 +6,9 @@ Valem para combate as regras dos livros listados em [Criando Seu Duelista](https
 
 A cena é clássica e se escreve por si só: dois pistoleiros, um sol escaldante, um sinal esperado. Mãos perto de coldres, olhares tensos, a antecipação criando um inferno dentro dos participantes. E então o sino toca, o relógio chega ao meio-dia, um grito é dado e um tiro fulminante decide o vitorioso.
 
-...conforme mencionado numa das DBs pós-mini-versão-Stranger-Things, conforme os pontos sobem no 3D&T Alpha, a quantidade de dano causável escala mais rápido que a quantidade de Pontos de Vida disponíveis. Isso é agravado ainda mais no caso das situações desse suplemento, onde jogadores podem fazer personagens voltados para uma única luta, e portanto problemas existentes em fichas voltadas para causar o máximo de dano, que geralmente poderiam ser explorados por um Mestre numa aventura/campanha ("sim, eu sei que você tem um rifle com Ataque Especial e Dano Gigante, mas seus PHs estão esgotados, não é?") mal tem tempo de existir, ou geram confrontos... rápidos e _frustrantes_ para quem perdeu antes de poder esboçar uma reação.
+...conforme mencionado numa das DBs pós-mini-versão-Stranger-Things, conforme os pontos sobem no 3D&T Alpha, a quantidade de dano causável escala mais rápido que a quantidade de Pontos de Vida disponíveis.
+
+Isso é agravado ainda mais no caso das situações desse suplemento, onde jogadores podem fazer personagens voltados para uma única luta, e portanto problemas existentes em fichas voltadas para causar o máximo de dano, que geralmente poderiam ser explorados por um Mestre numa aventura/campanha ("sim, eu sei que você tem um rifle com Ataque Especial e Dano Gigante, mas seus PHs estão esgotados, não é?") mal tem tempo de existir, ou geram confrontos... rápidos e _frustrantes_ para quem perdeu antes de poder esboçar uma reação.
 
 A fim de evitar (ou no mínimo mitigar) isso, fica a seguinte regra opcional (sem explicação narrativa por ora - sinceramente, a vida chama, e o tempo tem sido curto para prosseguir por aqui):
 
